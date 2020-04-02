@@ -2,3 +2,5 @@ Titanic
 Lord of the Rings
 Frozen
 Harry Porter
+Avatar
+Home Alone
